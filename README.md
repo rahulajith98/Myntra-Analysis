@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/ronakbokaria/myntra-products-dataset
 
 ## The final visualization shows:
 
-1) The top 100 sellers who have the highest number of ratings below 3 stars across all categories.
+1) A scrollable column chart of the top 100 sellers who have the highest number of ratings below 3 stars across all categories.
 2) A tree map of the top 10 footwear sellers who have products rated below 3 stars, with the number of ratings.
 3) A tree map of the top 10 shirt sellers who have products rated below 3 stars, with the number of ratings.
 4) A pie chart of the top 10 watch sellers who have products rated below 3 stars, with the number of ratings.
